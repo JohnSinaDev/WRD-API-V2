@@ -12,7 +12,7 @@ WeAreDevs API is the second generation of a powerful and versatile API for Roblo
 <br/>  
 
 
-## Rapidfire  
+## Features
 <table><tr><td valign="top" width="50%">
 
 - 🔭 Open-Source:: WRD API V2 is proud to be an open-source project, making it accessible and available to all developers. This means that the source code for it is publicly available, allowing developers to review, modify, and contribute to its development. This approach not only helps to build a strong and active community of developers, but it also ensures that the platform remains transparent, reliable, and secure. So, if you're looking for a cutting-edge Roblox API that puts the power in the hands of developers, look no further!  
@@ -27,19 +27,12 @@ WeAreDevs API is the second generation of a powerful and versatile API for Roblo
 - ⚡ Direct:: WRD API V2 is designed to be quick and easy to set up, making it the perfect choice for developers who want to get started with their projects right away. With a straightforward setup process, you can have your projects up and running in no time. And once you're up and running, you won't have to worry about spending a lot of time and resources on maintenance and up-keep. Our API is designed to be low-maintenance, so you can focus on what really matters!  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
 </td></tr></table>  
 
 <br/>  
 
 
-## Languages and Tools  
+## Language(s) 
 
 
 ### WRD API V2 is proudly powered by C#, one of the most powerful and widely-used programming languages in the world. This means that developers can take advantage of all the benefits of C# when being used!  
@@ -49,10 +42,6 @@ WeAreDevs API is the second generation of a powerful and versatile API for Roblo
   
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
 
 
 
@@ -84,4 +73,3 @@ thank you jon!
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
