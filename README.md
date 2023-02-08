@@ -5,8 +5,8 @@ The Open-Source Solution for ROBLOX Developers by the [WeAreDevs](https://weared
 
 
 
-### Glad to see you here!  
-WeAreDevs API V2 is the second generation of a powerful and versatile API for Roblox developers, designed to help them unleash their full potential and bring their creations to life. With its focus on empowering developers, it provides a wealth of tools and resources to help streamline the development process, making it faster and easier to bring innovative ideas to the Roblox platform. Whether you are a seasoned developer or just starting out, our API has everything you need to create, build, and launch your next great project!  
+### Glad to see you here! 👨‍💻
+WeAreDevs API V2 is the second generation of a powerful and versatile API for Roblox developers, designed to help them unleash their full potential and bring their creations to life. With its focus on empowering developers, it provides a wealth of tools and resources to help streamline the development process, making it faster and easier to bring innovative ideas to the Roblox platform. Whether you are a seasoned developer or just starting out, our API has everything you need to create, build, and launch your next great project! 🚀
   
 
 <br/>  
