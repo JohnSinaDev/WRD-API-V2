@@ -51,20 +51,9 @@ This includes following the terms of use and any other applicable agreements for
 By following these principles of source handling and transparency, we can ensure that our solution remains a valuable and trusted resource for developers everywhere. So, please make a move to comply with the rules and guidelines of both the API and the platform where you release your project.  
   
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<br/> 
 
 </td><td valign="top" width="33%">
-
-
-
 </td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
