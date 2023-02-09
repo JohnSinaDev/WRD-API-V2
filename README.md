@@ -35,7 +35,7 @@ WeAreDevs API V2 is the second generation of a powerful and versatile API for Ro
 ## Language(s) 
 
 
-### WRD API V2 is proudly powered by C#, one of the most powerful and widely-used programming languages in the world. This means that developers can take advantage of all the benefits of C# when being used!  
+### WRD API V2 is proudly powered by C# & Lua, two of the most powerful and widely-used programming languages in the world. This means that developers can take advantage of all the benefits of them when being used!  
 <div align="center">
 <img src="https://media.discordapp.net/attachments/760147971861643273/1072547021698900121/b5af1321-99cd-45d2-bb49-ed94b59bf185-icon.png" align="center" height="" width="" />
 </div>  
@@ -60,6 +60,7 @@ WeAreDevs API V2 is the second generation of a powerful and versatile API for Ro
 thank you jon!  
 <div align="center">
 <img src="https://media.discordapp.net/attachments/1066003147274850334/1072556040656277544/thumbnail.png" align="center" height="" width="" />
+<img src="https://luau-lang.org/assets/images/luau-88.png" align="center" height="" width="" />
 </div>  
   
 
